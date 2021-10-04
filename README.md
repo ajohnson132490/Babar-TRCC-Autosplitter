@@ -21,7 +21,7 @@ Contains the settings, deciding what splits show up in your autosplitter by defa
 ### Init
 Sets the version and initializes the splits array.
 
-###Start
+### Start
 Starts the autosplitter.
 
 ### Split
