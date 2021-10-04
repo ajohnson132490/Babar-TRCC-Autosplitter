@@ -6,7 +6,7 @@ Contains pointers to the difficulty setting, the points counter, and the song se
 ###### difficultySetting
 Shows the current difficulty, easy or hard.
 
-#### startIndicator
+###### startIndicator
 Changes when you go from one menu to another. At the beginning, it starts at 1, goes up to 3 when in the profile select screen, then goes back down to 1 when you select your difficulty and click "ok".
 
 ###### pointCounter
