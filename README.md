@@ -31,6 +31,6 @@ A string of conditionals telling the program when to split based on point counte
 Print statements for debugging.
 
 
-###Known Bugs
+### Known Bugs
 -Does not split on ending split, still working on implimenting that functionality.
 -Does not consistently split for the music split
